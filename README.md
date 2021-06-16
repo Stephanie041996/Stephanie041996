@@ -2,12 +2,12 @@
 
 <h3 align="center">I am a full stack developer with a passion for front-end design, I enjoy working on a number of freelance web design projects where I help my clients create both functional and beautiful sites for thier business. Here on my Github you will find both personal and proffesional projects that reflect my passion for sleek modern designs that maintain a scense of ease throughout the user experience, despite the complexity of the application its self</h3>
 
-- 👨‍💻 All of my projects are available at [www.michellethedeveloper.com](www.michellethedeveloper.com)
+- 👨‍💻 All of my projects are available at [www.stephanie-michelle.codes](www.stephanie-michelle.codes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/stephaniesakuh1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="stephaniesakuh1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/stephaniesakuhuni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stephaniesakuhuni" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/stephanie-michelle-sakuhuni/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stephaniesakuhuni" height="30" width="40" /></a>
 </p>
 
 
