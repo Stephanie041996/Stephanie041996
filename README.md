@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a full stack developer with a passion for front-end design, I enjoy working on a number of freelance web design projects where I help my clients create both functional and beautiful sites for thier business. Here on my Github you will find both personal and proffesional projects that reflect my passion for sleek modern designs that maintain a scense of ease throughout the user experience, despite the complexity of the application its self</h3>
 
-- 👨‍💻 All of my projects are available at [www.stephanie-michelle.codes](www.stephanie-michelle.codes)
+- 👨‍💻 All of my projects are available at [www.stephanie-michelle.codes](www.stephanie-michelle.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
